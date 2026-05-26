@@ -1,8 +1,9 @@
-# Classeur Privé 🥝
+Téléchargement :
 
-Pour télécharger l'application :
-
-→ Ouvrir Releases
-→ Télécharger : ClasseurPrive_1.2.0.zip
+Dans la colonne de droite :
+Releases
+→ Classeur Privé v1.2.0
+→ Assets
+→ Télécharger ClasseurPrive_1.2.0.zip
 
 Ne pas télécharger "Source code"
